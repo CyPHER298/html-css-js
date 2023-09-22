@@ -4,7 +4,7 @@
 </p>
 <br>
 <p>
-  As atualizações será <i>(muito provavel)</i> semanal, MAS nada confirmado.
+  As atualizações será <i>(muito provavel)</i> semanal, MAS nada confirmado.<br>Os arquivos estarão na branch <b>master</b>
 </p>
 
 <footer>
