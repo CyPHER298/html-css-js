@@ -5,7 +5,7 @@
 <br>
 <p>
   As atualizações será <i>(muito provavel)</i> semanal, MAS nada confirmado.</p>
-  <h3>Os arquivos estarão na branch <b>master</b></h3>
+  <i>arquivos na branch <b>master</b></i>
 
 
 <footer>
