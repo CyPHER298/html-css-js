@@ -4,8 +4,9 @@
 </p>
 <br>
 <p>
-  As atualizações será <i>(muito provavel)</i> semanal, MAS nada confirmado.<br>Os arquivos estarão na branch <b>master</b>
-</p>
+  As atualizações será <i>(muito provavel)</i> semanal, MAS nada confirmado.</p>
+  <h5>Os arquivos estarão na branch <b>master</b></h5>
+
 
 <footer>
   <h3>Desenvolvido por Henrique Batista</h3>
