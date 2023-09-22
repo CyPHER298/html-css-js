@@ -4,7 +4,7 @@
 </p>
 <p>
   As atualizações será <i>(muito provavel)</i> semanal, MAS nada confirmado.</p>
-  <p><i>arquivos na branch <b>master</b></i></p>
+  <p><i>Arquivos na branch <b>master</b></i></p>
 <footer>
   <h3>Desenvolvido por Henrique Batista</h3>
 </footer>
